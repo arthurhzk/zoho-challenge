@@ -13,7 +13,7 @@ server.use(
 server.use(cors());
 server.use(express.json());
 server.use(express.urlencoded({ extended: true }));
-const port = 5000;
+const port = 3000;
 
 server.listen(port, async () => {
   console.log(`Server is running`);
