@@ -16,10 +16,10 @@ Certifique-se de ter essas ferramentas instaladas em sua máquina antes de pross
 ## Instalação
 
 1. Clone este repositório para o seu computador usando o comando:
-
+```
 git clone https://github.com/arthurhzk/zoho-challenge.git
-
-2. Navegue até o repositório no terminal utilizando:
+```
+1. Navegue até o repositório no terminal utilizando:
    cd zoho-challenge
 
 3.Instale as dependências do projeto executando:
@@ -32,6 +32,6 @@ npm install
 npm run dev
 ```
 
-Após isso, é possível testar os endpoints com o cliente HTTP de sua preferência, lembrando que o endpoint está em formato JSON e após iniciar o servidor ele estará no endere"co de desenvolvimento:
+Após isso, é possível testar os endpoints com o cliente HTTP de sua preferência, lembrando que o endpoint está em formato JSON e após iniciar o servidor ele estará no endereço de desenvolvimento:
 http://localhost:3000/api/accounts/
 
