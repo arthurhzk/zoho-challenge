@@ -1,4 +1,4 @@
-# CRM7-Teste-t-cnico
+# DESAFIO CRM7-ZOHO
 
 Este é um projeto para o teste técnico do CRM7, que consiste na criação de rotas CRUD (Create, Read, Update, Delete) para operações em contas utilizando Node.js, Express.js e MongoDB. Os endpoints foram todos testados utilizando o software Insomnia, com o objetivo de verificar se o CRUD está funcionando corretamente.
 
@@ -23,10 +23,15 @@ git clone https://github.com/arthurhzk/zoho-challenge.git
    cd zoho-challenge
 
 3.Instale as dependências do projeto executando:
+```
 npm install
+```
 
 4. Inicie o servidor com o comando:
+```
 npm run dev
+```
 
-Após isso, é possível testar os endpoints com o cliente HTTP de sua preferência.
+Após isso, é possível testar os endpoints com o cliente HTTP de sua preferência, lembrando que o endpoint está em formato JSON e após iniciar o servidor ele estará no endere"co de desenvolvimento:
+http://localhost:3000/api/accounts/
 
