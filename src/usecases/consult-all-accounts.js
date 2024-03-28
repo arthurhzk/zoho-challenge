@@ -1,4 +1,4 @@
-import {RepositoryAccount} from '../infrastructure/db/repository/repository-accounts.js';
+import { RepositoryAccount } from "../infrastructure/db/repository/repository-accounts.js";
 
 export class ConsultAllAccounts {
   async execute() {
